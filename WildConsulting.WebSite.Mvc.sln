@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildConsulting.WebSite.Mvc", "WildConsulting.WebSite.Mvc\WildConsulting.WebSite.Mvc.csproj", "{0EFC3155-A107-4075-A434-350D466BC49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildConsulting.WebSite.Mvc.Tests", "WildConsulting.WebSite.Mvc.Tests\WildConsulting.WebSite.Mvc.Tests.csproj", "{7F5D7BE6-85BF-43C8-89D6-15A1CF7CDD18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{210F359D-6B3C-4F07-AD51-0463260C797C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFC3155-A107-4075-A434-350D466BC49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFC3155-A107-4075-A434-350D466BC49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFC3155-A107-4075-A434-350D466BC49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFC3155-A107-4075-A434-350D466BC49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5D7BE6-85BF-43C8-89D6-15A1CF7CDD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5D7BE6-85BF-43C8-89D6-15A1CF7CDD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5D7BE6-85BF-43C8-89D6-15A1CF7CDD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5D7BE6-85BF-43C8-89D6-15A1CF7CDD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E480F22-9885-4537-AED3-C5D20677853A}
+	EndGlobalSection
+EndGlobal
